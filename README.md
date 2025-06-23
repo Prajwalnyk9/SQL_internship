@@ -1,1 +1,1 @@
-Here the SQL_internship's Tasks will to be available 
+Here the SQL_internship's Tasks will be available 
